@@ -9,7 +9,7 @@ import argparse #yuliakordunova for irina
 import argparse #yuliakordunova
 import json  # We use JSON to store date to file
 import datetime
-
+import random
 
 def get_current_date(format):
     # Python is well know
